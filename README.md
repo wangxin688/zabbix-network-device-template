@@ -7,6 +7,9 @@ zabbix tempaltes for Network Devices
   - NXOS
   - ASA
   - WLC 
+    - AIRESPACE-WIRELESS-MIB 
+    - CISCO-DOT11-SSID-SECURITY-MIB
+    - IF-MIB
   - QOS
   - IPSLA: Filter monitor type: 9 udp-jitter for VOIP test
 - Huawei
