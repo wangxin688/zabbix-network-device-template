@@ -12,6 +12,8 @@ zabbix tempaltes for Network Devices
     - IF-MIB
   - QOS
   - IPSLA: Filter monitor type: 9 udp-jitter for VOIP test
+    - CISCO-IPSLA-ECHO-MIB
+    - CISCO-IPSLA-ETHERNET-MIB
 - Huawei
 - Junos
 - F5-BIG-IP
