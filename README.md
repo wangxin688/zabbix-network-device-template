@@ -8,7 +8,7 @@ zabbix tempaltes for Network Devices
   - ASA
   - WLC 
   - QOS
-  - IPSLA
+  - IPSLA: Filter monitor type: 9 udp-jitter for VOIP test
 - Huawei
 - Junos
 - F5-BIG-IP
