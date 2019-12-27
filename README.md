@@ -3,8 +3,8 @@ zabbix tempaltes for Network Devices
 ### SNMPv3
 ## Vendor_lists:
 - Cisco
-  - IOS
-  - NXOS
+  - IOS: basic-ios/nxos
+  - NXOS: basic-ios/nxos
   - ASA
   - WLC 
     - AIRESPACE-WIRELESS-MIB 
