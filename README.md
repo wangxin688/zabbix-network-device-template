@@ -5,6 +5,9 @@ zabbix tempaltes for Network Devices
 - ICMP
 - SNMP Reachablity
 - BGP
+- Interface discovery module
+  - must support IF-MIB
+  - must have if-alias
 ## Vendor_lists:
 - Cisco
   Interface Monitor: {#ifAilas}
