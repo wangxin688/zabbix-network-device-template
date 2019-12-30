@@ -1,6 +1,8 @@
 # Zabbix_Network_Device_template
 zabbix tempaltes for Network Devices 
 ### SNMPv3
+### Standard template
+- ICMP
 ## Vendor_lists:
 - Cisco
   - IOS: basic-ios/nxos
