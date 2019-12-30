@@ -5,6 +5,17 @@ zabbix tempaltes for Network Devices
 - ICMP
 ## Vendor_lists:
 - Cisco
+  Interface Monitor:
+    - **L2MON** in interface descirption: Network device interconnections
+    ```
+    interface gi0/0/1
+     descripiton L2MON_TO_AccessSwtich-9300-F5-01
+    ```
+    - **CAPM** in interface description: Circuit Monitor, such as Interface, MPLS and etc.
+    ```
+    interface gi0/0/2
+     description CAPM_To_Orange_MPLS_PUBOE01-01-200Mbps
+    ```
   - IOS: basic-ios/nxos
   - NXOS: basic-ios/nxos
   - ASA
