@@ -3,6 +3,7 @@ zabbix tempaltes for Network Devices
 ### SNMPv3
 ### Standard template
 - ICMP
+- SNMP Reachablity
 ## Vendor_lists:
 - Cisco
   Interface Monitor:
