@@ -7,7 +7,7 @@ zabbix tempaltes for Network Devices
 - BGP
 ## Vendor_lists:
 - Cisco
-  Interface Monitor:
+  Interface Monitor: {#ifAilas}
     - **L2MON** in interface descirption: Network device interconnections
     ```
     interface gi0/0/1
