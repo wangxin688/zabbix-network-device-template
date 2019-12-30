@@ -4,6 +4,7 @@ zabbix tempaltes for Network Devices
 ### Standard template
 - ICMP
 - SNMP Reachablity
+- BGP
 ## Vendor_lists:
 - Cisco
   Interface Monitor:
@@ -36,4 +37,3 @@ zabbix tempaltes for Network Devices
 - Bluecat DHCP
 - Riverbed WOC
 - Sangfor
-- BGP
