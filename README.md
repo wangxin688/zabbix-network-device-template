@@ -29,6 +29,9 @@ zabbix tempaltes for Network Devices
     - CISCO-DOT11-SSID-SECURITY-MIB
     - IF-MIB
   - QOS
+    - cannot use sample discovery rule, two ways to solve this one:
+      - python
+      - advance snmp discovery rule
   - IPSLA: Filter monitor type: 9 udp-jitter for VOIP test
     - CISCO-IPSLA-ECHO-MIB
     - CISCO-IPSLA-ETHERNET-MIB
