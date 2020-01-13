@@ -33,11 +33,11 @@ zabbix tempaltes for Network Devices
       - python
       - advance snmp discovery rule
   - IPSLA:
-    -Filter monitor type: 9 udp-jitter for VOIP test
+    - Filter monitor type: 9 udp-jitter for VOIP test
       - CISCO-IPSLA-ECHO-MIB
       - CISCO-IPSLA-ETHERNET-MIB
       - CISCO-RTTMON-MIB 
-    -Filter monitor type 16: icmp-jitter 
+    - Filter monitor type 16: icmp-jitter 
       - CISCO-RTTMON-ICMP-MIB
     
 - Huawei
