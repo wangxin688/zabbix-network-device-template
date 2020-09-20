@@ -1,4 +1,4 @@
-# Zabbix_Network_Device_template
+# Zabbix Network Devicetemplate
 zabbix tempaltes for Network Devices 
 ### SNMPv3
 ### Standard template
